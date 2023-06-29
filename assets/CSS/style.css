@@ -35,7 +35,13 @@ ul {
 
 }
 
-subsection {
-    background-color: #9e0a0a;
-    text-align: right;
+.toptext {
+    display: flex;
+    justify-content: flex-end;
+    color: #009a9f;
+    background-color: #92CCCE;
+}
+.fence {
+    background-image: url(../Images/fence.jpeg);
+    background-size: auto;
 }
